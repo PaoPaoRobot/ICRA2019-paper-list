@@ -2,7 +2,7 @@
 
 The 2019 International Conference on Robotics and Automation (ICRA) has been held on 20-24 May 2019 in Montreal, Canada. The ICRA 2019 is a flagship IEEE Robotics & Automation Society conference and will feature a premiere international venue for international robotics researchers.
 
-This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), the Chinese Academic nonprofit organization. Welcome to follow our github and our WeChat Public Account (paopaorobotslam).
+This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), the Chinese academic nonprofit organization. Recently we will classify these papers by topics. Welcome to follow our github and our WeChat Public Platform Account ( [paopaorobot_slam](https://mp.weixin.qq.com/s?__biz=MzI5MTM1MTQwMw==&mid=100000102&idx=1&sn=0a8a831a4f2c18443dbf436ef5d5ff8c&chksm=6c10bf625b6736748c9612879e166e510f1fe301b72ed5c5d7ecdd0f40726c5d757e975f37af&mpshare=1&scene=1&srcid=0530KxSLjUE9I38yLgfO2nVm&pass_ticket=0aB5tcjeTfmcl9u0eSVzN4Ag4tkpM2RjRFH8DG9vylE%3D#rd) ). 
 
 
 
