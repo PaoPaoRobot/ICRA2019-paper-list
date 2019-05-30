@@ -7,7 +7,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), the Chines
 
 
 |index|paper title|
-|----|-----|
+|:----:|:-----|
 |0007|High-Fidelity Grasping in Virtual Reality Using Glove-Based System|
 |0008|Self-Supervised Incremental Learning for Sound Source Localization in Complex Indoor Environment|
 |0016|Unsupervised Out-Of-Context Action Understanding|
