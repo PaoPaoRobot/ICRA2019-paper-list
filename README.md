@@ -1,5 +1,10 @@
 # ICRA2019-paper-list
 
+The 2019 International Conference on Robotics and Automation (ICRA) has been held on 20-24 May 2019 in Montreal, Canada. The ICRA 2019 is a flagship IEEE Robotics & Automation Society conference and will feature a premiere international venue for international robotics researchers.
+
+This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), the Chinese Academic nonprofit organization. Welcome to follow our github and our WeChat Public Account (paopaorobotslam).
+
+
 - 1-Actuator 3-DoF Manipulation Using an Underactuated Mechanism with Multiple Nonparallel and Viscoelastic Passive Joints
 - 1-Day Learning 1-Year Localization - Long-Term LiDAR Localization Using Scan Context Image
 - 2D3D-MatchNet - Learning to Match Keypoints across 2D Image and 3D Point Cloud
