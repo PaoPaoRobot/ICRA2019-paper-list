@@ -179,7 +179,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), the Chines
 |0502|Fabrication and Characterization of Muscle Rings Using Circular Mould and Rotary Electrical Stimulation for Bio-Syncretic Robots|
 |0504|Learning Haptic Exploration Schemes for Adaptive Task Execution|
 |0506|Every Hop Is an Opportunity - Quickly Classifying and Adapting to Terrain During Targeted Hopping|
-|0508-Fast and Robust Initialization for Visual-Inertial SLAM|
+|0508|Fast and Robust Initialization for Visual-Inertial SLAM|
 |0510|Hydraulically-Actuated Compliant Revolute Joint for Medical Robotic Systems Based on Multimaterial Additive Manufacturing|
 |0520|Bonnet - An Open-Source Training and Deployment Framework for Semantic Segmentation in Robotics using CNNs|
 |0521|Robotic Control of a Multi-Modal Rigid Endoscope Combining Optical Imaging with All-Optical Ultrasound|
