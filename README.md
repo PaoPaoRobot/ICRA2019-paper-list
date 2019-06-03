@@ -731,7 +731,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), the Chines
 |1765|Optimization-Based Human-In-The-Loop Manipulation Using Joint Space Polytopes|
 |1767|Mixed Frame-Event-Driven Fast Pedestrian Detection|
 |1768|Joint Learning of Instance and Semantic Segmentation for Robotic Pick-And-Place with Heavy Occlusions in Clutter|
-|1769|Palais des congres de Montreal Montreal Canada May 20-24 2019|
+|1769|Activity recognition in manufacturing: The roles of motion capture and sEMG+inertial wearables in detecting fine vs. gross motion|
 |1772|Learning Motion Planning Policies in Uncertain Environments through Repeated Task Executions|
 |1774|ModQuad-Vi - A Vision-Based Self-Assembling Modular Quadrotor|
 |1775|Belief Space Planning for Reducing Terrain Relative Localization Uncertainty in Noisy Elevation Maps|
@@ -778,7 +778,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), the Chines
 |1862|Reinforcement Learning on Variable Impedance Controller for High-Precision Robotic Assembly|
 |1867|A Learning Framework for High Precision Industrial Assembly|
 |1869|Propagation Networks for Model-Based Control under Partial Observation|
-|1870|Palais des congres de Montreal Montreal Canada May 20-24 2019|
+|1870|SLAMBench 3.0: Systematic Automated Reproducible Evaluation of SLAM Systems for Robot Vision Challenges and Scene Understanding|
 |1871|Panthera - Design of a Reconfigurable Pavement Sweeping Robot|
 |1873|Automatic Targeting of Plant Cells via Cell Segmentation and Robust Scene-Adaptive Tracking|
 |1874|Workspace CPG with Body Pose Control for Stable Directed Vision During Omnidirectional Locomotion|
@@ -832,7 +832,7 @@ This list is edited by [PaopaoRobot](https://github.com/PaoPaoRobot), the Chines
 |1978|Predictive Collision Avoidance for the Dynamic Window Approach|
 |1979|Simulating Emergent Properties of Human Driving Behavior Using Multi-Agent Reward Augmented Imitation Learning|
 |1980|A Real-Time Interactive Augmented Reality Depth Estimation Technique for Surgical Robotics|
-|1981|Palais des congres de Montreal Montreal Canada May 20-24 2019|
+|1981|Vision-Based Automated Sorting of C. Elegans on a Microfluidic Device|
 |1987|ChevBot i 12 an Untethered Microrobot Powered by Laser for Microfactory Applications|
 |1989|Integral Backstepping Position Control for Quadrotors in Tunnel-Like Confined Environments|
 |1991|A Floating-Piston Hydrostatic Linear Actuator and Remote-Direct-Drive 2-DOF Gripper|
